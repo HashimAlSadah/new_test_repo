@@ -1,0 +1,6 @@
+First text file inside the content folder.
+This is the seocnd line of the first text file.
+Second text file inside the content folder.
+This is the seocnd line of the seocnd text file.
+This text has been appended to the current output file
+Second text also is appended.

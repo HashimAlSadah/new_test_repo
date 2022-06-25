@@ -1,0 +1,2 @@
+Second text file inside the content folder.
+This is the seocnd line of the seocnd text file.
